@@ -3,6 +3,7 @@ Spotify Dashboard
 It is built with URL redirects to spotify page to listen the song
 
 The data consists of approx 170k rows and audio features of tracks
+Dataset URL : https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data_o.csv
 
 The dashboard has 4 sections:
 1. Top by popularity : where all the genres, artists and songs are given based on their popularity and you can search anyone of them individually to see their popularity index
