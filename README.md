@@ -1,5 +1,6 @@
 Spotiy Dashboard
 -----
+![image](https://user-images.githubusercontent.com/69955872/116449587-f5012680-a877-11eb-83b8-477094d221ca.png)
 Dashboard URL : https://app.powerbi.com/groups/me/reports/62eeecf5-e3a8-4970-a88c-3e6568469752?ctid=3ff0d950-c929-40cd-858d-6d3cbab9e019&pbi_source=linkShare
 -----
 Youtube URL : 
@@ -60,5 +61,3 @@ The dashboard has 4 sections:
 2. Insights : which aims at showing the time-series analysis of music details individually
 3. Song trend over time : one more TSA with all music details in a single go
 4. Suggestion Box : the MAIN performer of the dashboard, I will leave it's exploration to you and don't forget to drill-down to song's details
-
-![image](https://user-images.githubusercontent.com/69955872/116449587-f5012680-a877-11eb-83b8-477094d221ca.png)
