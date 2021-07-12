@@ -3,7 +3,7 @@ Spotiy Dashboard
 ![image](https://user-images.githubusercontent.com/69955872/116449587-f5012680-a877-11eb-83b8-477094d221ca.png)
 Dashboard URL : https://app.powerbi.com/groups/me/reports/62eeecf5-e3a8-4970-a88c-3e6568469752?ctid=3ff0d950-c929-40cd-858d-6d3cbab9e019&pbi_source=linkShare
 -----
-Youtube URL : 
+Has the video file of how it works!!!
 -----
 
 It is built-in with URL redirects to spotify page to listen the song.
